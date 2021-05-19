@@ -1,4 +1,5 @@
 *.pdf
 .idea
 .ipynb_checkpoints
+PRIVATE.txt
 venv

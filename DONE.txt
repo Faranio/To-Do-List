@@ -1,0 +1,1 @@
+- Finish "Practices of the Python Pro"
