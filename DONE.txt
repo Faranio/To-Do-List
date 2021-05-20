@@ -1,2 +1,0 @@
-- Finish "Practices of the Python Pro"
-- Plan my future books
