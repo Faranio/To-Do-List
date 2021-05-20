@@ -1,1 +1,2 @@
 - Finish the "Beginning Git and GitHub" book
+- Do all the exercises in "Beginning Git and GitHub"
